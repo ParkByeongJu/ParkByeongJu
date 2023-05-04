@@ -4,7 +4,6 @@
 
 🛠️ Stacks
 
-<img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=python&logoColor=#3776AB"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 💪🏼 Tools 
