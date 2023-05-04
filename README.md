@@ -2,6 +2,8 @@
 
 #### Polytech Artificial Intelligence Software HighTech Student
 
+## Email : bj4906@gmail.com
+
 🛠️ Stacks
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/java-3766AB?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
