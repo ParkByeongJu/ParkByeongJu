@@ -1,8 +1,7 @@
 ### Hi Welcome, i'm ByeongJu Park 👋
 
 #### Polytech Artificial Intelligence Software HighTech Student
-
-## Email : bj4906@gmail.com
+#### Email : bj4906@gmail.com
 
 🛠️ Stacks
 
