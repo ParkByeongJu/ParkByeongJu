@@ -1,7 +1,13 @@
 ### Hi Welcome, i'm ByeongJu Park 👋
 
 #### Polytech Artificial Intelligence Software HighTech Student
+#### 이름 : 박병주
 #### Email : bj4906@gmail.com
+#### 학력 : 중산고등학교 졸업
+####        명지전문대 경영학과 졸업
+####        한국폴리텍대학 스마트자동화 졸업
+####        고려사이버대학교 전기전자공학부 재학
+         
 
 🛠️ Stacks
 
