@@ -15,3 +15,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bj4906@gmail.com)](bj4906@gmail.com)
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://flame-spike-42f.notion.site/Study-205aa0368a5d44eb9c2b9e9bd8f0dde8)](https://flame-spike-42f.notion.site/Study-205aa0368a5d44eb9c2b9e9bd8f0dde8)
+  
+<h2>About ByeongJu's GitHub </h2>
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkByeongJu) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkByeongJu&count_private=true)
