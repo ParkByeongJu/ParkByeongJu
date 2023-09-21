@@ -1,4 +1,4 @@
-<span style="color:Black"># HI Welcome, i'm ByeongJu Park 👋<span>
+# <span style="color:Black">HI Welcome, i'm ByeongJu Park 👋<span>
 
 #### Polytech Artificial Intelligence Software HighTech Student
 #### The Cyber University of Korea School of Electronic and Electrical Engineering Student
