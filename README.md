@@ -1,6 +1,6 @@
 # <span style="color:Black">HI Welcome, i'm ByeongJu Park 👋<span>
 
-#### Polytech Artificial Intelligence Software HighTech Completion
+#### Korea Polytechnics Seongnam's Artificial Intelligence Software HighTech Completion
 #### The Cyber University of Korea School of Electronic and Electrical Engineering Graduation
 #### Korea University of Technology and Education Graduate School, Major in Computer Engineering Integrated Master's and Doctoral Program
 
