@@ -2,6 +2,7 @@
 
 #### Polytech Artificial Intelligence Software HighTech Student
 #### The Cyber University of Korea School of Electronic and Electrical Engineering Student
+#### Korea University of Technology and Education Graduate School, Major in Computer Engineering Integrated Master's and Doctoral Program
 
 ## 💁 info <br>
 - Name : 박병주
